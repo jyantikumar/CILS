@@ -1,0 +1,10 @@
+new sched
+- can check conflicts
+- hide repeating days
+- one time events working
+
+new event
+- hide repeating days
+- one time events working
+- recurring events working too
+
